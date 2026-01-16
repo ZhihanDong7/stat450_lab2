@@ -16,8 +16,6 @@ theme_set(theme_light())
 dat <- read_rds(...)
 ```
 
-
-
 ```{r}
 # DON'T CHANGE ANYTHING BELOW
 plt <- dat %>% 
